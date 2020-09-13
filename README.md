@@ -10,20 +10,19 @@
 
 ### Parts
 #### SKR 1.4 Motherboard
-Link: 
-Reason to buy:
+Link: https://www.aliexpress.com/i/4000470048293.html
 
 #### TMC 2209
-Link: 
-Reason to buy:
+Link: https://aliexpress.ru/item/33047241001.html
 
 #### TFT Screen
-Link: 
-Reason to buy:
+##### 3.5
+Link: https://aliexpress.ru/item/4000051343302.html
+##### 2.4
+Link: https://aliexpress.ru/item/33044733169.html
 
 #### BL Touch
-Link: 
-Reason to buy:
+Link: https://aliexpress.ru/item/33025648093.html
 
 ### Links
 #### Firmwares:
