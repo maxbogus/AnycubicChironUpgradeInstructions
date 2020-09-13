@@ -34,5 +34,9 @@ Reason to buy:
 ##### Marlin
 
 ### STLs
+BTT TFT 24 Case: https://www.thingiverse.com/thing:3862575
+BTT TFT 35 Universal mount: https://www.thingiverse.com/thing:3994896
+Anycubic Chiron SKR 1.4 board adapter: https://www.thingiverse.com/thing:4545327
+
 
 ### Steps
