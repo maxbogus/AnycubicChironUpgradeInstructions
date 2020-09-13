@@ -1,6 +1,8 @@
 # Anycubic Chiron Upgrade Instructions
 
 # Authors:
+* Erik Gerwell
+* Max Boguslavskiy
 
 # Preface
 
