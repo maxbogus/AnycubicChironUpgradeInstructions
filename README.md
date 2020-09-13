@@ -33,6 +33,7 @@ Link: https://aliexpress.ru/item/33025648093.html
 ##### TFT Screen
 
 ##### Marlin
+Link: https://marlinfw.org/meta/download/
 
 ### STLs
 BTT TFT 24 Case: https://www.thingiverse.com/thing:3862575
