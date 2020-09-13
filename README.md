@@ -43,3 +43,12 @@ Anycubic Chiron SKR 1.4 board adapter: https://www.thingiverse.com/thing:4545327
 
 
 ### Steps
+
+
+### Useful info
+
+#### Tutorials
+
+
+#### FAQs
+BTT + Marlin FAQ: https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/issues/1047?fbclid=IwAR1X4SYacQB_5m5SGUBsQHwveyvMyhBrmTQA681_7CUufiovEeq9Lwr6Ekk
