@@ -45,7 +45,12 @@ Anycubic Chiron SKR 1.4 board adapter: https://www.thingiverse.com/thing:4545327
 BLTouch adapter: https://www.thingiverse.com/thing:3844414
 
 
-### Steps
+### Instruction
+
+#### With endstops
+
+
+#### Without endstops
 
 
 ### Useful info
